@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Great Vibes';
+    src: url('"UPDATES THIS"../fonts/Glegoo-Regular.woff2') format('woff2'),
+         url('"UPDATE THIS"../fonts/Cookie-Regular.ttf') format('woff'),
+         url('../fonts/GreatVibes-Regular.ttf') format('truetype');
+}
+*{
+    font-family: Bookman, URM Bookman L, serif;
+    color: whitesmoke;
+}
+
+h1 {
+    color: #003b6f;
+}
+
+h2{
+    color:#003b6f;
+    font-size: 30px;
+    display: inline-block;
+    padding: auto;
+    margin-top: 15px;
+}
+
+.banner {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    height: 250 px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    padding-block: 10px;
+    word-spacing: 1em;
+
+}
+
+h3 {
+    color: #ab812e;
+    font: 'Great Vibes';
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.footer {
+    background-image: url();
+    display: inline-flex;
+    background-color: #003b6f;
+    word-spacing: 1em;
+
+}
